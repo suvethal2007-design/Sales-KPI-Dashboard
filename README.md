@@ -1,0 +1,1 @@
+Developed an interactive Sales KPI Dashboard in Power BI to analyze sales performance, profit, order volume, and product categories. Created KPI cards, regional sales analysis, category-wise distribution, and trend visualizations to support business decision-making.
